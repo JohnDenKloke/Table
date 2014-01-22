@@ -1,0 +1,18 @@
+table{
+	border:5px solid;
+	border-color: teal;
+}
+thead th{
+	border:3px solid black;
+	font-family: "@Kozuka Gothic Pr6N H";
+}
+#Maintable td{
+	border:3px solid red;
+	background-color: yellow;
+	font-family: Verdana;
+}
+tbody td{
+	font-weight:bolder;
+	border-top: 4px solid Lime;
+	border-left:1px solid black;
+}
